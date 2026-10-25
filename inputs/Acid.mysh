@@ -1,0 +1,10 @@
+shader Acid
+
+color green
+
+noise:
+    scale 6
+    speed 1.5
+
+distortion 0.35
+emission 1.8

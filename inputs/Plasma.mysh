@@ -1,0 +1,10 @@
+shader Plasma
+
+color purple
+
+noise:
+    scale 8
+    speed 4
+
+distortion 0.6
+emission 3.5

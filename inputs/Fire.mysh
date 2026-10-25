@@ -1,0 +1,10 @@
+shader Fire
+
+color orange
+
+noise:
+    scale 5
+    speed 2
+
+distortion 0.2
+emission 2

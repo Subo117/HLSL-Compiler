@@ -1,0 +1,10 @@
+shader Hologram
+
+color cyan
+
+noise:
+    scale 12
+    speed 5
+
+distortion 0.1
+emission 2.5
